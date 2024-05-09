@@ -1,0 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+.next
+package.json
+tsconfig.json
+next-env.d.ts
+pnpm-lock.yaml
