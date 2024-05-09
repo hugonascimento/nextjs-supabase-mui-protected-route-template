@@ -31,9 +31,12 @@ pnpm i
 
 # Requirements
 
-Login enabled with Google only (edit if necessary)
-Edit .env.local-example with your Supabase Key
-You need the profile table in supabase for page profile
+<p>
+Login enabled with Google only (edit if necessary).<br />
+Edit .env.local-example with your Supabase Key. <br />
+You need the profile table in supabase for page profile.
+</p>
+
 
 ## First, run the development server:
 
