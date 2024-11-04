@@ -37,7 +37,6 @@ Edit .env.local-example with your Supabase Key. <br />
 You need the profile table in supabase for page profile.
 </p>
 
-
 ## First, run the development server:
 
 ```bash
